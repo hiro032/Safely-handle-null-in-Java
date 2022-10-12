@@ -7,6 +7,7 @@ build/
 gradlew
 gradlew.bat
 **/wrapper
+settings.gradle
 
 
 ### STS ###
